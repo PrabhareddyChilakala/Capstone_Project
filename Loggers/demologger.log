@@ -1,0 +1,5 @@
+2023-03-15 12:40:00,223-root-ERROR-division by zero
+Traceback (most recent call last):
+  File "C:\Capstone_Project\Loggers\demologger.py", line 6, in <module>
+    print(a/b)
+ZeroDivisionError: division by zero
